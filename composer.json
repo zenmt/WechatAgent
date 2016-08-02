@@ -1,0 +1,6 @@
+{
+    "require": {
+        "overtrue/wechat": "~3.0",
+        "mautic/api-library": "@dev"
+    }
+}
